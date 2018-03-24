@@ -25,7 +25,7 @@ python -m pip install --upgrade pip</li>
 d:</li>
  	<li>change directory to the python exe:
 cd D:\YourPath\venv\Scripts</li>
- 	<li>now we want to install the pyHook module from this library with pip, (my path is the following, change the path to wherever you have stored the .whl module):
+ 	<li>now we want to install the pyHook module from this directory with pip, (my path is the following, change the path to wherever you have stored the .whl module):
 py -3.6 -m pip install C:\Users\YourPath\pywin32-223-cp36-cp36m-win32.whl</li>
  	<li>now we want to install the pyWin32 module from this library with pip, (my path is the following, change the path to wherever you have stored the .whl module):
 py -3.6 -m pip install C:\Users\YourPath\pywin32-223-cp36-cp36m-win32.whl</li>
