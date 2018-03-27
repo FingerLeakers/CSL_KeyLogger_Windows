@@ -33,3 +33,13 @@ py -3.6 -m pip install C:\Users\YourPath\pywin32-223-cp36-cp36m-win32.whl</li>
 &nbsp;
 
 <img src="https://offseclab.com/wp-content/uploads/2018/03/installinglibraries.png" />
+
+<h2>Output:</h2>
+<strong>SMTPAuthenticationError when sending mail using gmail fix:</strong>
+
+When using googles mail server, the email that you are using will be blocked for any sign-in attempts with the python program unless better security standards are in place. Because of this we need to enable access to less secure apps to allow us to send emails to this gmail account with the python program.
+
+Sign into the gmail account that you want to use with the python program, and press the <strong>Turn On</strong> toggle button:
+<a href="https://www.google.com/settings/security/lesssecureapps">https://www.google.com/settings/security/lesssecureapps</a>
+
+<img style="margin-top: 30px;" src="https://offseclab.com/wp-content/uploads/2018/03/toggle.png" width="1280" height="719" />
