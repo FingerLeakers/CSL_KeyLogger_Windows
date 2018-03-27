@@ -1,4 +1,4 @@
-# OSL_KeyLogger_Windows
+# CSL_KeyLogger_Windows
 A Keylogger written in Python 3.6 that takes in user input, stores the data log, and then sends it to an email address. The data log is destroyed after the email is sent to remain anonymous.
 
 <h2>Windows installation of python modules:</h2>
