@@ -42,4 +42,4 @@ When using googles mail server, the email that you are using will be blocked for
 Sign into the gmail account that you want to use with the python program, and press the <strong>Turn On</strong> toggle button:
 <a href="https://www.google.com/settings/security/lesssecureapps">https://www.google.com/settings/security/lesssecureapps</a>
 
-<img style="margin-top: 30px;" src="https://offseclab.com/wp-content/uploads/2018/03/toggle.png" width="1280" height="719" />
+<img src="https://offseclab.com/wp-content/uploads/2018/03/toggle.png" />
