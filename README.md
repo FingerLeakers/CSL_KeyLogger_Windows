@@ -34,6 +34,8 @@ py -3.6 -m pip install C:\Users\YourPath\pywin32-223-cp36-cp36m-win32.whl</li>
 
 <img src="https://offseclab.com/wp-content/uploads/2018/03/installinglibraries.png" />
 
+<hr />
+
 <h2>Output:</h2>
 <strong>SMTPAuthenticationError when sending mail using gmail fix:</strong>
 
