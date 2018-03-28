@@ -50,6 +50,7 @@ Sign into the gmail account that you want to use with the python program, and pr
 <strong>Running the Program:</strong>
 Open IDLE, or PyCharm, or whatever text editor, or IDE that you prefer for python and run the program. The python program outputs the values it picks up from the key presses using the print statements. This is a good way to see how the keylogger works. If you want to hide the DOS shell window that appears when running the python program, change the file extension from <b>".py"</b> to <b>".pyw"</b>.
 
+
 <strong>Here is an example of the program running. This is the output after first going to notepad and typing some words, then going to google. This is to show how the program marks the windows/programs the target is currently on.</strong>
 
 
@@ -59,10 +60,10 @@ Open IDLE, or PyCharm, or whatever text editor, or IDE that you prefer for pytho
 
 <img  src="https://offseclab.com/wp-content/uploads/2018/03/python4.png"  />
 
-<strong>Here is how the log files stores the logged keys:</strong>
+<strong>This is how the log file(s) stores the logged keys:</strong>
 <img style="margin-top: 30px;" src="https://offseclab.com/wp-content/uploads/2018/03/python5.png" width="1280" height="719" />
 
-<strong>And here is the sent keys logged to the email I specified:</strong>
+<strong>This is the sent keys logged to the email specified:</strong>
 <img style="margin-top: 30px;" src="https://offseclab.com/wp-content/uploads/2018/03/python6.png" width="1280" height="719" />
 
 
