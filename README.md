@@ -68,9 +68,9 @@ Open IDLE, or PyCharm, or whatever text editor, or IDE that you prefer for pytho
 <img  src="https://offseclab.com/wp-content/uploads/2018/03/python4.png"  />
 
 <strong>This is how the log file(s) stores the logged keys:</strong>
-<img style="margin-top: 30px;" src="https://offseclab.com/wp-content/uploads/2018/03/python5.png" width="1280" height="719" />
+<img  src="https://offseclab.com/wp-content/uploads/2018/03/python5.png"  />
 
 <strong>This is the sent keys logged to the email specified:</strong>
-<img style="margin-top: 30px;" src="https://offseclab.com/wp-content/uploads/2018/03/python6.png" width="1280" height="719" />
+<img  src="https://offseclab.com/wp-content/uploads/2018/03/python6.png"  />
 
 
