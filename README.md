@@ -45,3 +45,24 @@ Sign into the gmail account that you want to use with the python program, and pr
 <a href="https://www.google.com/settings/security/lesssecureapps">https://www.google.com/settings/security/lesssecureapps</a>
 
 <img src="https://offseclab.com/wp-content/uploads/2018/03/toggle.png" />
+
+<h2>Output:</h2>
+<strong>Running the Program:</strong>
+Open IDLE, or PyCharm, or whatever text editor, or IDE that you prefer for python and run the program. The python program outputs the values it picks up from the key presses using the print statements. This is a good way to see how the keylogger works. If you want to hide the DOS shell window that appears when running the python program, change the file extension from <b>".py"</b> to <b>".pyw"</b>.
+
+<strong>Here is an example of the program running. I first go to notepad and type some words, then I go to google and type some some other random inputs to show how the program marks the windows/programs the target is currently on.</strong>
+
+
+<img  src="https://offseclab.com/wp-content/uploads/2018/03/python2.png" />
+
+<img  src="https://offseclab.com/wp-content/uploads/2018/03/python3.png" />
+
+<img  src="https://offseclab.com/wp-content/uploads/2018/03/python4.png"  />
+
+<strong>Here is how the log files stores the logged keys:</strong>
+<img style="margin-top: 30px;" src="https://offseclab.com/wp-content/uploads/2018/03/python5.png" width="1280" height="719" />
+
+<strong>And here is the sent keys logged to the email I specified:</strong>
+<img style="margin-top: 30px;" src="https://offseclab.com/wp-content/uploads/2018/03/python6.png" width="1280" height="719" />
+
+
