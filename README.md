@@ -36,15 +36,22 @@ py -3.6 -m pip install C:\Users\YourPath\pywin32-223-cp36-cp36m-win32.whl</li>
 
 <hr />
 
-<h2>Output:</h2>
-<strong>SMTPAuthenticationError when sending mail using gmail fix:</strong>
-
+<h2>Troubleshooting:</h2>
+<ul>
+ 	<li><strong>SMTPAuthenticationError when sending mail using gmail FIX:</strong></li>
+</ul>
 When using googles mail server, the email that you are using will be blocked for any sign-in attempts with the python program unless better security standards are in place. Because of this we need to enable access to less secure apps to allow us to send emails to this gmail account with the python program.
 
 Sign into the gmail account that you want to use with the python program, and press the <strong>Turn On</strong> toggle button:
 <a href="https://www.google.com/settings/security/lesssecureapps">https://www.google.com/settings/security/lesssecureapps</a>
 
-<img src="https://offseclab.com/wp-content/uploads/2018/03/toggle.png" />
+<img  src="https://offseclab.com/wp-content/uploads/2018/03/toggle.png" />
+<ul>
+ 	<li><strong>Python IDLE issues, keylogger is not picking up keys FIX:</strong></li>
+</ul>
+If you are dealing with this issue with the IDLE, then delete the contents in the .idlerc folder located within your user profile of your computer. To find the folder check your user profile name followed by %APPDATA% and look for a folder called.<b>".idlerc"</b>. Delete everything in that folder, and you should be able to run the program through python IDLE.
+
+<img  src="https://offseclab.com/wp-content/uploads/2018/03/deletethis.png"  />
 
 <h2>Output:</h2>
 <strong>Running the Program:</strong>
