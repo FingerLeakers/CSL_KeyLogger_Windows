@@ -113,7 +113,7 @@ def bat_create_file(path_log=""):
 bat_create_file(path_log)
 </pre>
 </div>
-Sometimes a separate bat file is used instead of having a built-in function (this is a script written in batch's scripting language):
+Sometimes a separate bat file is used instead of having a built-in function:
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">REM Place in startup folder
 start "" path_log/myProgram.exe
