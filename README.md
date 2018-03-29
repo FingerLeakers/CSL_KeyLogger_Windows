@@ -100,7 +100,7 @@ The file is now created.
 <h2>Persistenly Run KeyLogger on Startup:</h2>
 On Windows devices there is a startup folder that determines which applications will run on startup. This folder is where some attackers will store their keyloggers, in some cases they will mask it as a another program. Essentially this is done by implementing a python function that creates a bat file that runs the <b>'start'</b> command, followed by the file path to the keylogger to execute the program. Or a general bat file stored in the startup folder that contains the following script with the commands will work.
 
-Here is the python function that can be included in the program above which creates the bat file:
+Here is the python function that can be included in the program which creates the bat file. (I have included the full program with log deletion and bat startup under "key_log_win_withBATCreation.pyw"):
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">import getpass as gp
 usern = gp.getuser()
