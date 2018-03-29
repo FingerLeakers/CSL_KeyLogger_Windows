@@ -19,8 +19,6 @@ python -m pip install --upgrade pip</li>
 </ul>
 &nbsp;
 
-<hr />
-
 <h1>Guide on how to install Python Modules on Windows:</h1>
 <strong>Open up the windows Command prompt as admin:</strong>
 <ul>
