@@ -17,7 +17,6 @@ An example is if you download pyHook-1.5.1-cp36-cp36m-win_amd64 and you get an e
  	<li>-to update pip
 python -m pip install --upgrade pip</li>
 </ul>
-&nbsp;
 
 <h1>Guide on how to install Python Modules on Windows:</h1>
 <strong>Open up the windows Command prompt as admin:</strong>
