@@ -1,8 +1,6 @@
 # CSL_KeyLogger_Windows
 A Keylogger written in Python 3.6 that takes in user input, stores the data log, and then sends it to an email address. The data log is destroyed after the email is sent to remain anonymous.
 
-<hr />
-
 <h1>DISCLAIMER</h1>
 This program is for education/research purposes only. The author takes NO responsibility and/or liability for how you choose to use any of the tools/source code/any files provided. The author and anyone affiliated with will not be liable for any losses and/or damages in connection with use of ANY files provided. By using CSL_KeyLogger_Windows or any files included, you understand that you are AGREEING TO USE AT YOUR OWN RISK. This program is ONLY intended for use on your own pentesting labs, or with explicit consent from the owner of the property being tested.
 
